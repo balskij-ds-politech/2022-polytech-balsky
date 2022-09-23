@@ -1,0 +1,3 @@
+/Users/dmitrijbalskij/Documents/GitHub/2022-polytech-balsky/03_cpp/calculator/build/CMakeFiles/threeprogtwo.dir
+/Users/dmitrijbalskij/Documents/GitHub/2022-polytech-balsky/03_cpp/calculator/build/CMakeFiles/edit_cache.dir
+/Users/dmitrijbalskij/Documents/GitHub/2022-polytech-balsky/03_cpp/calculator/build/CMakeFiles/rebuild_cache.dir

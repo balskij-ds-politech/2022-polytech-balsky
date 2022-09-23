@@ -1,0 +1,3 @@
+/Users/dmitrijbalskij/Documents/GitHub/2022-polytech-balsky/03_cpp/intro/bulid/CMakeFiles/threeprogone.dir
+/Users/dmitrijbalskij/Documents/GitHub/2022-polytech-balsky/03_cpp/intro/bulid/CMakeFiles/edit_cache.dir
+/Users/dmitrijbalskij/Documents/GitHub/2022-polytech-balsky/03_cpp/intro/bulid/CMakeFiles/rebuild_cache.dir

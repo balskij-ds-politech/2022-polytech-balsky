@@ -20,6 +20,7 @@ int main()
         case '-': c = a - b; break;
         case '*': c = a * b; break;
         case '/': c = a / b; break;
+        case '^': c = pow(a,b); break;
         default:
             printf("Wrong action\n");
             continue;
